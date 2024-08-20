@@ -30,9 +30,8 @@ section .section-title {
 }
 
 /* header styles */
-
 .header-main {
-  background-image: url("/pictures/dancing/dance_4.jpg");
+  background-image: url("./pictures/dancing/dance_4.jpg");
   height: 250px;
   background-position: center center;
   background-size: cover;
