@@ -38,21 +38,21 @@ section .section-title {
 }
 
 .header-gym {
-  background-image: url("/pictures/gym/gym_5.jpg");
+  background-image: url("./pictures/gym/gym_5.jpg");
   height: 250px;
   background-position: center center;
   background-size: cover;
 }
 
 .header-dance {
-  background-image: url("/pictures/dancing/dance_4.jpg");
+  background-image: url("./pictures/dancing/dance_4.jpg");
   height: 250px;
   background-position: center center;
   background-size: cover;
 }
 
 .header-ski {
-  background-image: url("/pictures/ski/ski_13.jpg");
+  background-image: url("./pictures/ski/ski_13.jpg");
   height: 250px;
   background-position: center center;
   background-size: cover;
